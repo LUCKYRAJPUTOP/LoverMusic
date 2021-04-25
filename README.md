@@ -1,4 +1,4 @@
-# LoverMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
+# LoverMusicBot TELEGRAM VC MUSIC BOT - This Is A Pyrogram Bot Based On Pytgcalls For Playing Songs Or Audio Files In Telegram Group Voice Chat
 [![AuraXMusicBot logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/LoverNetwork)
 
 
