@@ -26,11 +26,11 @@ For source code Join our support group @LoverMusicSupport.
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/LoverOwner"
+                        "Creater⚡️", url="https://t.me/SarcasticLucky"
                     ),
                     InlineKeyboardButton(
-                        "Creator 2⚡️", url="https://t.me/SarcasticLucky"
-                    ),
+                        "Creator 2⚡️", url="https://t.me/LoverOwner"
+                    )
                     InlineKeyboardButton(
                         "Study Group⚡️", url="https://t.me/Class_9th_10th"
                     )
