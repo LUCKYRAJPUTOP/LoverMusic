@@ -26,8 +26,8 @@ For source code Join our support group @LoverMusicSupport.
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/SarcasticLucky"
-                    ),
+                        "Creator⚡️", url="https://t.me/SarcasticLucky"
+                    )
                     InlineKeyboardButton(
                         "Creator 2⚡️", url="https://t.me/LoverOwner"
                     )
@@ -38,7 +38,7 @@ For source code Join our support group @LoverMusicSupport.
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/LoverMusicRobot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/LoverMusicBot?startgroup=true"
                     )
                 ]
             ]
