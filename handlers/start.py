@@ -29,8 +29,12 @@ For source code Join our support group @LoverMusicSupport.
                         "Creater⚡️", url="https://t.me/LoverOwner"
                     ),
                     InlineKeyboardButton(
+                        "Creator 2⚡️", url="https://t.me/SarcasticLucky"
+                    ),
+                    InlineKeyboardButton(
                         "Study Group⚡️", url="https://t.me/Class_9th_10th"
                     )
+
                 ],
                 [
                     InlineKeyboardButton(
